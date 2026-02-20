@@ -1,0 +1,8 @@
+scapy
+netaddr
+python-dotenv
+netmiko
+easysnmp
+matplotlib
+gitpython
+PyGitHub
